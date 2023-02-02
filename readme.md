@@ -1,3 +1,5 @@
+<img width="1203" alt="Screen Shot 2023-01-17 at 4 45 38 PM" src="https://user-images.githubusercontent.com/81759076/216374105-edd33c48-e02f-4e33-8bf1-18312a8f8529.png">
+
 ## Contract Puzzles
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify smart contracts.
@@ -19,3 +21,4 @@ First, install all the dependencies with `npm i`. Then, you can run all tests at
 If you are working on `Game1`, for instance, it will make more sense to run the test cases for the first game: `npx hardhat test test/game1Test.js`. Each Game contract will have a corresponding test file.
 
 Your goal is to modify the tests to make the test case pass without modifying the smart contract (and leaving the `isWon` assertion in place).
+
